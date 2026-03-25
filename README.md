@@ -1,4 +1,4 @@
-# 最优化方法 大作业 解晟平 2300010702
+# 使用多种算法求解Group Lasso问题
 
 #对于梯度算法采取的连续化策略，我们参考了代码仓库：https://github.com/AkexStar/Algorithms-group-LASSO-problem
 ，但代码的具体实现方式为独立完成。
